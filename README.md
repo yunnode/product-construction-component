@@ -1,0 +1,2 @@
+# product-construction-component
+component
